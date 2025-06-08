@@ -1,1 +1,1 @@
-scret scanning
+secret scanning
