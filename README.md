@@ -1,1 +1,1 @@
-secret scanning
+Secret Scanning 
